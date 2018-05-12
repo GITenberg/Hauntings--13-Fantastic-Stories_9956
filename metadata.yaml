@@ -1,5 +1,8 @@
 _repo: Hauntings--13-Fantastic-Stories_9956
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lee, Vernon
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2683
     wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
 description: Amour dure -- Dionea -- Oke of Okehurst -- A wicked voice.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9956#Hauntings--13-Fantastic-Stories
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
